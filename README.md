@@ -1,4 +1,5 @@
 
+
 # 🎓 Student Management System
 
 ## 📌 Overview
@@ -55,7 +56,8 @@ student-management/
 📸 Screenshots
 
  
-<img width="1073" height="592" alt="student management" src="https://github.com/user-attachments/assets/83245d87-9efd-4642-9083-d48f18cd2d31" />
+<img width="1073" height="592" alt="student management" src="https://github.com/user-attachments/assets/b301ff5d-8cf1-436f-a1d2-75294a5f64f8" />
+
 
 
 
