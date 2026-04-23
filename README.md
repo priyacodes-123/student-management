@@ -78,7 +78,7 @@ student-management/
 Feel free to connect with me:
 
 📧 Email: priyakorada03@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/aka-bodduri/  
+🔗 LinkedIn: https://www.linkedin.com/in/priya-korada-458746358?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
 💻 GitHub:https://github.com/priyacodes-123
 
 
